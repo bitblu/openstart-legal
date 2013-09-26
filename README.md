@@ -9,8 +9,8 @@ We at [Bitblu](http://bitblu.com) strongly identify with the principles of [Pay 
 
 The structure of this repository
 ================================
-# v1 - The original agreements developed by David are included verbatim in this repository, for ease of use (David's original documents [are available on Google Drive](https://drive.google.com/folderview?id=0B4o5Vf3kcjoKc2FSUXlPYUE1S1U&usp=sharing)).
-# v2 - We will develop a new set of Markdown-formatted documents as we go along. These documents will be easier to edit and diff via github. You should be aware that in opposed to the v1 documents, the v2 documents will be "younger" and with less legal mileage, at least at first, compared to David's mature battle-tested documents.
+1. v1 - The original agreements developed by David are included verbatim in this repository, for ease of use (David's original documents [are available on Google Drive](https://drive.google.com/folderview?id=0B4o5Vf3kcjoKc2FSUXlPYUE1S1U&usp=sharing)).
+2. v2 - We will develop a new set of Markdown-formatted documents as we go along. These documents will be easier to edit and diff via github. You should be aware that in opposed to the v1 documents, the v2 documents will be "younger" and with less legal mileage, at least at first, compared to David's mature battle-tested documents.
 
 The obvious disclaimer is that any and all documents found in openstart-legal or elsewhere are templates only, and you should also do your own thinking on what you want your own documents to contain, and have them reviewed by your own lawyers.
 
