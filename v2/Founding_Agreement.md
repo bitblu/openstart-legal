@@ -66,15 +66,15 @@ The following are the only shareholders in the business. The possible shareholde
 4. ADVISOR_LVL_C_SHARES
 5. ADVISOR_LVL_D_SHARES
 
-| Shareholder Name 				| Level 			| Start Date 		|
-| ----------------------------- | ----------------- | ----------------- |
-| _	| _	| _	|
-| _	| _	| _	|
-| _	| _	| _	|
-| _	| _	| _	|
-| _	| _	| _	|
-| _	| _	| _	|
-| _	| _	| _	|
+| Shareholder Name 				| Shareholder Level | Start Date |
+| ----------------------------- | ----------------- | ---------- |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 
 
