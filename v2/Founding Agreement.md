@@ -7,8 +7,8 @@ Date: __________
 
 
 
-== Variables ==
-TODO - Markdown table
+Variables
+=========
 
 | Variable Name 				| Recommended Default Value | Actual Value Used |
 | ----------------------------- | ------------------------- | ----------------- |
@@ -22,15 +22,19 @@ TODO - Markdown table
 | EXISTING_ASSETS				|							|					|
 | EXISTING_LIABILITIES			|							|					|
 
-== Agreement ==
+Purpose of this agreement
+=========================
 
-1. The founders listed in FOUNDER_NAMES all agree to found a new business named VENTURE_NAME, that will be incorporated as one or more registered companies.
+The founders listed in FOUNDER_NAMES all agree to found a new business named VENTURE_NAME, that will be incorporated as one or more registered companies.
 
-== Assets and liabilities ==
+Assets and liabilities
+======================
+
 1. The assets of the new business will be EXISTING_ASSETS
 2. The liabilities of the new business will be EXISITING_LIABILITIES
 
-== 
+TODO
+====
 
 # No external investment has been raised yet. A future agreement will replace/amend this agreement when such an external investment takes place.
 # All the co-founders have identical voting rights, with the exception of the CEO in case of a tie.
