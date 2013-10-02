@@ -10,16 +10,17 @@ Date: __________
 == Variables ==
 TODO - Markdown table
 
-Variable Name 					| Recommended Default Value | Actual Value Used  
-VENTURE_NAME					|							|
-FOUNDER_NAMES 					|      						|
-FOUNDER_SHARES 					| 10000	shares				|
-VESTING_PERIOD					| 48 months 				|
-TRIAL_CLIFF_PERIOD				| 3 months					|
-BUYBACK_CLIFF_PERIOD			| 3 months					|
-BUYBACK_PRICE_PER_SHARE			| 							|
-EXISTING_ASSETS					|
-EXISTING_LIABILITIES			|
+| Variable Name 				| Recommended Default Value | Actual Value Used |
+| ----------------------------- | ------------------------- | ----------------- |
+| VENTURE_NAME					|							|					|
+| FOUNDER_NAMES 				|      						|					|
+| FOUNDER_SHARES 				| 10000	shares				|					|
+| VESTING_PERIOD				| 48 months 				|					|
+| TRIAL_CLIFF_PERIOD			| 3 months					|					|
+| BUYBACK_CLIFF_PERIOD			| 3 months					|					|
+| BUYBACK_PRICE_PER_SHARE		| 							|					|
+| EXISTING_ASSETS				|							|					|
+| EXISTING_LIABILITIES			|							|					|
 
 == Agreement ==
 
