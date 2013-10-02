@@ -66,6 +66,8 @@ The following are the only shareholders in the business. The possible shareholde
 4. ADVISOR_LVL_C_SHARES
 5. ADVISOR_LVL_D_SHARES
 
+The appropriate shares allocated to each shareholder is detailed in Appendix 1
+
 | Shareholder Name 				| Shareholder Level | Start Date |
 | ----------------------------- | ----------------- | ---------- |
 | | | |
@@ -93,3 +95,6 @@ In order to make sure the business has sufficient funds to operate until externa
 2. The above clause does not preclude other investment that include an interest rate, convertible notes, options, or another form of compensation for the internal investor in exchange for the risk that he is taking. As usual, the board may offer specific terms to any internal or external investor that are different than those outlined in the above clause.
 
 
+Appendix 1 - Shareholder levels
+===============================
+TODO
