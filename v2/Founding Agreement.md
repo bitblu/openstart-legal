@@ -36,6 +36,6 @@ Assets and liabilities
 TODO
 ====
 
-# No external investment has been raised yet. A future agreement will replace/amend this agreement when such an external investment takes place.
-# All the co-founders have identical voting rights, with the exception of the CEO in case of a tie.
-# All co-founders receive .
+1. No external investment has been raised yet. A future agreement will replace/amend this agreement when such an external investment takes place.
+2. All the co-founders have identical voting rights, with the exception of the CEO in case of a tie.
+
