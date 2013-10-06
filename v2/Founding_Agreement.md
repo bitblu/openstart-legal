@@ -15,11 +15,11 @@ Variables
 | VENTURE_NAME					|							|					|
 | FOUNDER_NAMES 				|      						|					|
 | VENTURE_CEO					|							|					|
-| FOUNDER_SHARES 				| 10000	shares				|					|
-| ADVISOR_LVL_A_SHARES			|							|					|
-| ADVISOR_LVL_B_SHARES			|							|					|
-| ADVISOR_LVL_C_SHARES			|							|					|
-| ADVISOR_LVL_D_SHARES			|							|					|
+| FOUNDER_SHARES 				| 100000 shares				|					|
+| ADVISOR_LVL_D_SHARES			| 20000 shares 				|					|
+| ADVISOR_LVL_C_SHARES			| 5000 shares				|					|
+| ADVISOR_LVL_B_SHARES			| 2500 shares				|					|
+| ADVISOR_LVL_A_SHARES			| 1250 shares				|					|
 | VESTING_PERIOD				| 48 months 				|					|
 | TRIAL_CLIFF_PERIOD			| 3 months					|					|
 | BUYBACK_CLIFF_PERIOD			| 3 months					|					|
@@ -97,4 +97,27 @@ In order to make sure the business has sufficient funds to operate until externa
 
 Appendix 1 - Shareholder levels
 ===============================
-TODO
+Each shareholder is expected to make a certain commitment, and is entitled to a specific amount of shares.
+
+1. FOUNDER
+2. ADVISOR_LVL_A
+3. ADVISOR_LVL_B
+4. ADVISOR_LVL_C
+5. ADVISOR_LVL_D
+
+The appropriate shares allocated to each shareholder is detailed in Appendix 1
+
+| Shareholder Level | Commitment 							| Services 		| Compensation |
+| ------------------| ------------------------------------- | ------------ 	| ------------ |
+| ADVISOR_LVL_A 	| Attend quarterly meetings to provide feedback on Company’s strategy for at least one hour. Attend quarterly meetings of the Company’s Advisory board. Provide reasonable response to email requests by Company. | Promotion: On top of the regular advice and insights, Advisor agrees to actively promote and make introductions on behalf of the Company through Advisor’s overall network of business contacts, including forwarding the Company’s business plan and other materials as requested by the Company. | ADVISOR_LVL_A_SHARES |
+| ADVISOR_LVL_B 	| ADVISOR_LVL_A Performance plus: 
+Attend monthly meetings to provide feedback on Company’s strategy for at least one hour.
+Attend one additional monthly meeting for up to one hour with a potential customer, investor, strategic partner, vendor or employee. | ADVISOR_LVL_A Performance plus: 
+Recruiting: Advisor agrees to assist Company in finding additional, potential founding team members and employees through the Advisor’s overall network of business contacts. | ADVISOR_LVL_B_SHARES |
+| ADVISOR_LVL_C 	| ADVISOR_LVL_B Performance plus: 
+Twice monthly meetings to provide feedback on Company’s strategy for at least two hours each. | ADVISOR_LVL_B Performance plus: 
+Contacts: Advisor agrees to make introductions to and assist in the acquisition of marquee customers, strategic partners and key industry contacts and attend meetings with such potential customers, partners and key contacts.
+Projects: Advisor agrees to assist the Company on at least one strategic project as requested by the Company during the term of this Agreement. | ADVISOR_LVL_C_SHARES |
+| ADVISOR_LVL_D 	| ADVISOR_LVL_C Performance plus:
+One day per week will be dedicated to the Company's projects. | The advisor will lead at least one strategic project as requested by the Company during the term of this agreement. | ADVISOR_LVL_D_SHARES |
+| FOUNDER 			| A founder is expected to dedicate five workdays each week of his time the company. | The founder will lead several strategic projects, actively seek to recruit new personal, investment and any other activity required by the Company. | FOUNDER_SHARES |
