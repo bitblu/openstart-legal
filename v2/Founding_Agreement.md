@@ -99,14 +99,6 @@ Appendix 1 - Shareholder levels
 ===============================
 Each shareholder is expected to make a certain commitment, and is entitled to a specific amount of shares.
 
-1. FOUNDER
-2. ADVISOR_LVL_A
-3. ADVISOR_LVL_B
-4. ADVISOR_LVL_C
-5. ADVISOR_LVL_D
-
-The appropriate shares allocated to each shareholder is detailed in Appendix 1
-
 | Shareholder Level | Commitment 							| Services 		| Compensation |
 | ------------------| ------------------------------------- | ------------ 	| ------------ |
 | ADVISOR_LVL_A 	| Attend quarterly meetings to provide feedback on Company’s strategy for at least one hour. Attend quarterly meetings of the Company’s Advisory board. Provide reasonable response to email requests by Company. | Promotion: On top of the regular advice and insights, Advisor agrees to actively promote and make introductions on behalf of the Company through Advisor’s overall network of business contacts, including forwarding the Company’s business plan and other materials as requested by the Company. | ADVISOR_LVL_A_SHARES |
