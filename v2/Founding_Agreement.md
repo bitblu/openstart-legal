@@ -3,8 +3,8 @@ Whenever a variable with ALL_CAPITAL_LETTERS is designated in the body of the co
 
 
 
-Date: 		____________
-Git hash: 	____________
+* Date: 		____________
+* Git hash: 	____________
 
 
 Variables
@@ -70,13 +70,13 @@ The appropriate shares allocated to each shareholder is detailed in Appendix 1
 
 | Shareholder Name 				| Shareholder Level | Start Date |
 | ----------------------------- | ----------------- | ---------- |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| _ | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
 
 
 
