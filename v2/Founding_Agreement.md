@@ -61,14 +61,14 @@ Shareholders
 The following are the only shareholders in the business. The possible shareholder levels are:
 
 1. FOUNDER
-2. ADVISOR_LVL_A_SHARES
-3. ADVISOR_LVL_B_SHARES
-4. ADVISOR_LVL_C_SHARES
-5. ADVISOR_LVL_D_SHARES
+2. ADVISOR_LVL_A
+3. ADVISOR_LVL_B
+4. ADVISOR_LVL_C
+5. ADVISOR_LVL_D
 
 The appropriate shares allocated to each shareholder is detailed in Appendix 1
 
-| Shareholder Name 				| Shareholder Level | Start Date |
+| Shareholder Full Name 		| Shareholder Level | Start Date |
 | ----------------------------- | ----------------- | ---------- |
 | _ | _ | _ |
 | _ | _ | _ |
